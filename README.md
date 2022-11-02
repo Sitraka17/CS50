@@ -1,6 +1,6 @@
 # CS50
 
-> Chapters and subchapter
+Chapters and subchapter
 
 > Data Types
 > Operators
