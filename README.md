@@ -8,8 +8,10 @@ Chapters and subchapter
 > Loops
 > Command Line
 
+![alt text](https://cdn.programiz.com/sites/tutorial2program/files/c-arrays.jpg)
 
- Markup : *Linear Search
+ Markup : 
+* Linear Search
 * Binary Search
 * Bubble Sort
 * Selection Sort
