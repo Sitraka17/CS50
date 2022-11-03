@@ -7,3 +7,11 @@ Chapters and subchapter
 > Conditional Statements
 > Loops
 > Command Line
+
+
+ Markup : *Linear Search
+* Binary Search
+* Bubble Sort
+* Selection Sort
+* Recursion
+* Merge Sort
