@@ -8,3 +8,6 @@ a Chrome extension using JavaScript
 a command-line program using C
 a hardware-based application for which you program some device
 …
+
+
+process industriel et en méthode d’analyse et d’amélioration (AMDEC, 5S, Hoshin, SMED, KAISEN…)
