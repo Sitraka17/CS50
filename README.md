@@ -18,3 +18,4 @@ Chapters and subchapter
 * Recursion
 * Merge Sort
 
+The most significant difference between regression vs classification is that while regression helps predict a continuous quantity, classification predicts discrete class labels. There are also some overlaps between the two types of machine learning algorithms.
